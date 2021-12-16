@@ -1,0 +1,8 @@
+Pages\EmailSentPage.class
+Pages\ForgotPasswrdPage.class
+Pages\HoversPage.class
+Pages\KeyPress.class
+Pages\SecureAreaPage.class
+Pages\LoginPage.class
+Pages\HomePage.class
+Pages\DropdownPage.class
