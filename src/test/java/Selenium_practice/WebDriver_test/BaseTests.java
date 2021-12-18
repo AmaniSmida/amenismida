@@ -42,12 +42,12 @@ public class BaseTests {
 
 	}
 
-	// @AfterClass
-	// public void close() {
-	// //close window
-	// driver.quit();
-	//
-	// }
+	 @AfterClass
+	 public void close() {
+	 //close window
+	 driver.quit();
+	
+	 }
 
 }
 
